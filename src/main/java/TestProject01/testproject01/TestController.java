@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String getMessage(){
-        return "Hello I am learning Jenkins!";
+        return "Hello I am learning Jenkins!:)!";
     }
 }
